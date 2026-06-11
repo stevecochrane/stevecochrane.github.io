@@ -1323,7 +1323,7 @@ a:hover {
 
 .work-example-copy h3 {
   margin: 0 0 10px;
-  font-size: clamp(1.4rem, 2.2vw, 2rem);
+  font-size: clamp(1.1rem, 1.8vw, 1.7rem);
   line-height: 1.1;
   letter-spacing: -0.03em;
   color: #2f5f98;
