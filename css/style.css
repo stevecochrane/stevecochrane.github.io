@@ -1549,7 +1549,8 @@ a:hover {
   margin-top: 0.5rem;
 }
 .contact-methods-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 360px));
+  gap: 48px;
   justify-content: center;
-  max-width: 900px;
-  margin: 0 auto;
 }
