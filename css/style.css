@@ -1548,3 +1548,8 @@ a:hover {
 .footer-meta-centre p + p {
   margin-top: 0.5rem;
 }
+.contact-methods-grid {
+  justify-content: center;
+  max-width: 900px;
+  margin: 0 auto;
+}
