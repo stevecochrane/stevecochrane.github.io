@@ -1554,3 +1554,24 @@ a:hover {
   gap: 48px;
   justify-content: center;
 }
+@media (max-width: 900px) {
+  .footer-meta {
+    align-items: center;
+    text-align: center;
+  }
+}
+
+@media (max-width: 640px) {
+  .footer-nav ul {
+    justify-content: center;
+  }
+
+  .footer-meta-centre {
+    align-items: center;
+    text-align: center;
+  }
+
+  .footer-meta-centre p {
+    text-align: center;
+  }
+}
